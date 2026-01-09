@@ -97,7 +97,8 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "3.x-dev"
+            "dev-master": "3.x-dev",
+            "dev-symfony-5.4": "3.35-dev"
         }
     }
 }
